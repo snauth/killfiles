@@ -1,2 +1,3 @@
 ignore-article  "https://www.adressa.no/"  "title =~ (?i)(RBK|finale|cup|trener|dortmund|chelsea|premier|klubb|laget|jubel|map|idrett|ski|opprykk|seier|skade|blink|keeper|spill|rivale|solkjær|assistent|karriere|ny eier|solgt for første gang|fotball|håndball)"
 ignore-article  "https://io9.gizmodo.com/rss"  "title =~ (?i)(Funko|deals)
+ignore-article  "http://www.tagesschau.de/xml/rss2"  "title =~ (?i)(liveblog|endspiel|finale|dfb)
